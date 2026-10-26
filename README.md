@@ -59,6 +59,10 @@ Measurements will be recorded with the workload and configuration used, so compa
 
 Screenshots, benchmark summaries, architecture diagrams, and lessons learned will be added as the experiments are completed. Results will be presented as observations from this specific lab, not as universal performance claims.
 
+## Lab notebook
+
+The [lab notebook](lab-notebook/README.md) records the setup, experiment plans, measurements, evidence, and lessons learned as the project progresses. It uses sanitized, repeatable instructions; machine-specific connection details stay local.
+
 ## Project status
 
 The lab plan and deployment access are being established. The application stages and benchmark results are planned work and will be documented here as they are implemented and measured.
