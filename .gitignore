@@ -1,0 +1,12 @@
+# Local credentials and environment settings
+.env
+.env.*
+!.env.example
+
+# Node.js dependencies and logs
+node_modules/
+npm-debug.log*
+
+# Personal reference notes
+refrence.txt
+idee.md
